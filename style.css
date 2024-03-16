@@ -1,0 +1,42 @@
+.heading {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.heading li {
+    flex-basis: 250px;
+    
+    justify-content: center;
+
+}
+
+h1 {
+    
+    font-size:5rem;
+    
+}
+
+body { 
+    li {font-size: 2rem;}
+    background-color:lightblue;
+   }
+
+#main-pic {
+    height: 500px;   
+}
+
+.main-pic, .h1 {
+    display: flex;
+    justify-content: center;
+}
+    
+    
+   
+  
+    
+}
+    
